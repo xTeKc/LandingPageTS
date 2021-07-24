@@ -1,7 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles'
 import background from './assets/landing-page-bg.svg';
-import logo from './assets/your-logo.svg';
+import logo from './assets/dapp-logo.svg';
 import discord from './assets/discord.svg';
 import github from './assets/github.svg';
 import docs from './assets/docs.svg';
