@@ -77,14 +77,14 @@ function App() {
           justifyContent="center"
           className={styles.container}
         >
-        <img src={logo} className={styles.logo} alt="logo" />
+        <img src={logo} className={styles.logo} alt="DApp Logo" />
           <Link
             href={dappUrl}
             target="_blank"
             rel="noopener noreferrer"
             className={styles.appButton}
           >
-            <img src={useYourDapp} className={styles.useYourDapp} alt="logo" />
+            <img src={useYourDapp} className={styles.useYourDapp} alt="'Use DApp' - Button (Link to DApp Website)" />
           </Link>
           <Box
             display="flex"
@@ -97,28 +97,28 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={discord} className={styles.link} alt="logo" />
+              <img src={discord} className={styles.link} alt="Discord Logo (Link)" />
             </Link>
             <Link
               href={twitterUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={twitter} className={styles.link} alt="logo" />
+              <img src={twitter} className={styles.link} alt="Twitter Logo (Link)" />
             </Link>
             <Link
               href={githubUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={github} className={styles.link} alt="logo" />
+              <img src={github} className={styles.link} alt="Github Logo (Link)" />
             </Link>
             <Link
               href={docsUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={docs} className={styles.link} alt="logo" />
+              <img src={docs} className={styles.link} alt="Docs Logo (Link)" />
             </Link>
           </Box>
         </Box>

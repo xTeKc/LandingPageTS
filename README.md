@@ -1,3 +1,3 @@
 #### General DApp Landing Page (TypeScript)
 <br>
-<img src="https://gateway.pinata.cloud/ipfs/QmVs4rhUekQgLmXkSDi2vpY9Ai6EW8ngbpQa9RE3CVi3wi" alt="DAppLandingPageIMG">
+<img src="https://gateway.pinata.cloud/ipfs/QmXwBFAn1RFmYPcg59U7oQJZ5U27wVHTt7vRkXLEtsUQZp" alt="DAppLandingPageIMG">

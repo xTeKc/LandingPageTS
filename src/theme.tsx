@@ -2,6 +2,7 @@ import { CSSProperties } from 'react'
 import createBreakpoints from '@material-ui/core/styles/createBreakpoints'
 import { TypographyOptions } from '@material-ui/core/styles/createTypography'
 
+
 // https://stackoverflow.com/a/64135466/1439168
 import { unstable_createMuiStrictModeTheme as createMuiTheme } from '@material-ui/core/styles'
 
